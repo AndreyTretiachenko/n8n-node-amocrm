@@ -4,8 +4,8 @@ import { AmocrmV1 } from './V1/AmocrmV1.node';
 export class Amocrm extends VersionedNodeType {
 	constructor() {
 		const baseDescription: INodeTypeBaseDescription = {
-			displayName: 'Amocrm',
-			name: 'amocrm',
+			displayName: 'Amocrm-andreytretiachenkofork',
+			name: 'amocrmandreytretiachenkofork',
 			icon: 'file:amocrm_logo.svg',
 			group: ['output'],
 			subtitle: '={{$parameter["operation"] + ": " + $parameter["resource"]}}',
