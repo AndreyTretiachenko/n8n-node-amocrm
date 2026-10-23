@@ -154,6 +154,10 @@ export const description: ILeadsProperties = [
 					name: 'Source ID',
 					value: 'source_id',
 				},
+				{
+					name: 'Source',
+					value: 'source',
+				},
 			]),
 		],
 	},
