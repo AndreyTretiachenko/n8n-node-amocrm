@@ -1,5 +1,11 @@
 # n8n-nodes-amocrm
 
+Fork by Andrey Tretiachenko
+
+UPD:
+
+v0.0.20 - Обновлен метод подучения Leads: добавлено значение параметра with = source, которое позволяет получить в сделке объект source = { name: "Название источника", id: "ID источника" } 
+
 This is an n8n community node. It lets you use [AmoCRM](https://amocrm.ru) your n8n workflows.
 
 AmoCRM allows you to save the history of interaction with customers, as well as automate sales department processes.
